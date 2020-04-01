@@ -1,6 +1,6 @@
 {
 	"maintenance" : {
-		"status": 0
+		"status": 1
 	},
 	"update":{
 		"status": 1,
@@ -9,5 +9,4 @@
 			"min": "1.0.1"
 		}
 	}
-
 }
