@@ -1,0 +1,12 @@
+{
+	"maintenance" : {
+		"status": 0
+	},
+	"update":{
+		"status": 0,
+		"version":{
+			"min": "0.0.1"
+		}
+	}
+
+}
