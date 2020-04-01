@@ -1,0 +1,12 @@
+{
+	"maintenance" : {
+		"status": 0
+	},
+	"update":{
+		"status": 1,
+		"link": "https://apps.apple.com/ph/app/batingaw/id844163083",
+		"version":{
+			"min": "1.0.1"
+		}
+	}
+}
